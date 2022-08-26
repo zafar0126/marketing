@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Rubik';
+    src: url(../fonts/Rubik-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Rubik';
+    src: url(../fonts/Rubik-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Rubik';
+    src: url(../fonts/Rubik-Light.ttf);
+    font-weight: 300;
+}
+
+/* 
+thin - 100
+extralight - 200
+light - 300
+regular/normal - 400
+medium - 500
+semibold - 600
+bold - 700
+extrabold - 800
+black - 900
+*/
